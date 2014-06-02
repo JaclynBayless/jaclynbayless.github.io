@@ -1,0 +1,43 @@
+body {
+	font-family: 'Quicksand', Arial, sans-serif;
+}
+
+.right {
+	margin: 50px 50px 50px 100px;
+}
+
+.Bubbles,
+.message {
+	margin: 0 50px 50px 50px;
+	position:relative;
+	top: -40px;
+	width: 100%;
+}
+
+
+.where p {
+	text-align: center;
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.plugin {
+}
+
+h1{
+	text-align: center;
+	font-family: 'Quicksand', Arial, sans-serif;
+}
+
+h3 {
+	text-align: center;
+	color: #F499C1;
+	font-family: 'Quicksand', Arial, sans-serif;
+	font-weight: 300;
+}
+
+h4 {
+	text-align: center;
+	color: #8CC63E;
+	font-family: 'Quicksand', Arial, sans-serif;
+}
